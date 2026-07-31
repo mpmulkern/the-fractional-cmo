@@ -1,3 +1,5 @@
+# Mulkern AI Systems — all crawlers welcome, including AI assistants (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, etc.).
 User-agent: *
 Allow: /
-Sitemap: https://cmo.mulkernai.com/sitemap.xml
+
+Sitemap: https://office.mulkernai.com/sitemap.xml
